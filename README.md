@@ -9,7 +9,7 @@
 To run this project you have to install ndoejs and npm.
 
 ```bash
-  npm install
+  npm install -g npm
 ```
 For external dependencies
 
