@@ -22,6 +22,9 @@ For external dependencies
 The app is created to search for the weather status of a town in Kenya ,this is done by typing the name of the town in the search bar and pressing enter.
 It should display the type of weather being experienced in the named town with an image of the weather symbol and the temperature degrees.
 
+##Live Link
+https://634575d09033b314c38cbeb0--aquamarine-cendol-58cafd.netlify.app/
+
 Have Fun!
 
 
