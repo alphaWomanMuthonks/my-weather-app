@@ -13,7 +13,7 @@ To run this project you have to install nodejs and npm.
 ```
 To run the project on a local machine
 
-``sh
+```sh
 git clone https://github.com/alphaWomanMuthonks/my-weather-app.git
 cd my-weather-app
 npm install
