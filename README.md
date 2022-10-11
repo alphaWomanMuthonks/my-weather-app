@@ -9,15 +9,15 @@
 To run this project you have to install nodejs and npm.
 
 ```bash
-  npm install -g npm
+ $ npm install -g npm
 ```
 To run the project on a local machine
 
 ```sh
 git clone https://github.com/alphaWomanMuthonks/my-weather-app.git
 cd my-weather-app
-npm install
-npm start
+$ npm install
+$ npm start
 ```
 For external dependencies
 
